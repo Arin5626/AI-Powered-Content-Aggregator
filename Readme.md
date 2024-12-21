@@ -6,6 +6,9 @@ The AI Powered Content Aggregator is a decentralized platform that allows users 
 ## Contract Address
 *Contract Address*
 0x957544D928E251f8DD3c1E42cB96E5400612155D
+![image](https://github.com/user-attachments/assets/7c665e37-2113-462b-85e4-855498ebd05c)
+
+
 
 ## Project Vision
 Our vision is to create an unbiased,
